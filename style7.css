@@ -15,7 +15,7 @@ input {
 .previous {
     text-decoration: none;
     display: inline-block;
-    padding: 15px 30px;
+    padding: 15px 30px ;
     margin: 10px 20px;
     border-radius: 10px;
     box-shadow: 0 0 40px 40px #F137A6 inset, 0 0 0 0 #F137A6;
